@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # Copyright (C) 2024 Mark J. Wielaard <mark@klomp.org>
 # This file is part of elfutils.
 #

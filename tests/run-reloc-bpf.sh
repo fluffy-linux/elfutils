@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # Copyright (C) 2018 Facebook, Inc.
 # This file is part of elfutils.
 #

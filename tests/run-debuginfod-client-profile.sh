@@ -1,4 +1,4 @@
-#! /usr/bin/env bash
+#!/sw/bash/bin/bash
 # Copyright (C) 2024 Mark J. Wielaard
 # This file is part of elfutils.
 #

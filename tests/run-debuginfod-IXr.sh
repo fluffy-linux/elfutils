@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/sw/bash/bin/bash
 #
 # Copyright (C) 2019-2023 Red Hat, Inc.
 # This file is part of elfutils.

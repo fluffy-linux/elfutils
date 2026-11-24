@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # Test for displaying DW_AT_const_types with the "correct" sign.
 # Copyright (C) 2018 Red Hat, Inc.
 # This file is part of elfutils.

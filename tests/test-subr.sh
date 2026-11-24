@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # Copyright (C) 2005-2015, 2017 Red Hat, Inc.
 # Copyright (C) 2026 Mark J. Wielaard <mark@klomp.org>
 # This file is part of elfutils.

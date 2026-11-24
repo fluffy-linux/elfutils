@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # Data race test for parallelizd dwarf-getmacros
 # Copyright (C) 2015, 2018 Red Hat, Inc.
 # This file is part of elfutils.

@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # Copyright (C) Red Hat, Inc., 2016.
 # This file is part of elfutils.
 #

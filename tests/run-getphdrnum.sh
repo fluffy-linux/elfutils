@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 
 # testfile-phdrs.elf generated with python3 script
 # import struct

@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # Test for dwarf_getcfi.
 # Copyright (C) 2018 Red Hat, Inc.
 # This file is part of elfutils.

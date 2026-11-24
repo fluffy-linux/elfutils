@@ -1,4 +1,4 @@
-#! /usr/bin/env bash
+#!/sw/bash/bin/bash
 # Copyright (C) 2017 The Qt Company
 # This file is part of elfutils.
 #
