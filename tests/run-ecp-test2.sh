@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # Copyright (C) 2002, 2005 Red Hat, Inc.
 # This file is part of elfutils.
 # Written by Jakub Jelinek <jakub@redhat.com>, 2002.

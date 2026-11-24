@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # Copyright (c) 2024 Meta Platforms, Inc. and affiliates.
 # This file is part of elfutils.
 #

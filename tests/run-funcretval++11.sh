@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # Copyright (C) 2023 IBM Corporation
 # This file is part of elfutils.
 #

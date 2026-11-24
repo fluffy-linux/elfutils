@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # Subroutines for thread safety testing
 # Copyright (C) 2024 Red Hat, Inc.
 # This file is part of elfutils.

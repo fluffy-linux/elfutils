@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # Variant of run-get-lines that uses dwarf_next_lines.
 # Copyright (C) 2018 Red Hat, Inc.
 # This file is part of elfutils.

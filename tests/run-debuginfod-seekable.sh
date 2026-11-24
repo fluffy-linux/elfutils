@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/sw/bash/bin/bash
 
 . $srcdir/debuginfod-subr.sh
 

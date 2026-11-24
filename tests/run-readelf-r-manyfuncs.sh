@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # Test readelf -r on file containing 64K+ functions and sections
 # Copyright (C) 2025 Mark J. Wielaard <mark@klomp.org>
 # This file is part of elfutils.

@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 
 . $srcdir/strip-reloc-subr.sh
 

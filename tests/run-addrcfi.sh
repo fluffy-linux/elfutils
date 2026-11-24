@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # Copyright (C) 2013
 # Copyright (C) H.J. Lu <hjl.tools@gmail.com>, 2015.
 # This file is part of elfutils.

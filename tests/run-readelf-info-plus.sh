@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 # Test for --debug-dump=info+ and finding split unit (in wrong file).
 # Copyright (C) 2018 Red Hat, Inc.
 # This file is part of elfutils.
